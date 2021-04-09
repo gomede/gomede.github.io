@@ -7,185 +7,363 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Everton Gomede, PhD.
+    tagline: Computer Scientist and Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    email: evertongomede@gmail.com 
+    email: gomede@unicamp.br
+    phone: +55 (44) 99966-0874
+    website: evertongomede.blogspot.com #do not add http://
+    orcid: 0000-0003-4839-9017
+    github: gomede
+    researcherID: V-3905-2019
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@evertongomede'
+    instagram: '@evertongomede'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Fluent
 
       - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Music
         link:
 
-      - item: Snowboarding
+      - item: Scifi
         link:
 
-      - item: Cooking
+      - item: Books
         link:
+
+      - item: Sociology
+        link:
+
+      - item: Philosophy
+        link:
+
+      - item: Astronomy
+        link:
+
+      - item: Neuro Science
+        link:
+
+    certifications:
+      - item: Java Programmer (SCJP)
+        link:
+
+      - item: Java Web Developer (SCWD)
+        link:
+
+      - item: Java Architect I (SCEA I)
+        link:
+
+      - item: ITIL Foundation (ITIL)
+        link:
+
+      - item: COBIT Foundation (COBIT)
+        link:
+
+      - item: MSSQL Development (MCSA)
+        link:
+
+      - item: MSSQL Administration (MCSA)
+        link:
+
+      - item: Cisco Certified (CCNA)
+        link:
+
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello! I’m Everton, Computer Scientist at <a href="https://www.sicoob.com.br/" target="_blank" rel="nofollow">Sicoob</a>, <a href="https://www.solaris.net.br/" target="_blank" rel="nofollow">Solaris</a>, <a href="https://www.produtec.com.br/" target="_blank" rel="nofollow">Produtec</a> and <a href="https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/" target="_blank" rel="nofollow">Senai HUB</a> where we develop algorithmic processes, solutions, and tools that enable these companies and its analysts to efficiently extract insights from data and provide solution alternatives to decision-makers.
+      
+      Previously, I was a Senior Operations Research Analyst at the Sicoob and spent many years developing life cycle forecasting, risk and decision analysis models. 
+
+      I work on applied analytic research, develop data analysis software, create data science educational content, write books, and provide analytic consulting services.
+
+      Besides, I have been working as a Visiting Professor at the University of Maringá, Pontificia Universidad Catolica, FCV, and University of Londrina where I have teaching business analytics and R and Python programming courses. My teaching style is building knowledge from general to specific, simple to complex and example-based method before mathematical formalization. 
+      
+      I am also reviewer of journals <a href="http://www.mlrjournal.org/" target="_blank" rel="nofollow">Machine Learning Research</a>, ISPRS International Journal of Trends in Computer Science and Information Technology, Geo-Information, Smart Cities, Sensors, International Journal of Environmental Research and Public Health, Applied Sciences, Big Data and Cognitive Computing, and Future Internet.
+
+      Moreover, I have written many technical <a href="https://servicos.cbl.org.br/isbn/pesquisa/?page=1&q=gomede&filtrar_por%5B0%5D=autor&ord%5B0%5D=relevancia&dir%5B0%5D=asc" target="_blank" rel="nofollow">books</a> 
+      and scientific papers related to computer science and I have been working as a researcher at <a href="https://www.fee.unicamp.br/" target="_blank" rel="nofollow">FEEC/Unicamp</a>.
+
+      All opinions and views are my own and do not represent my employer(s).
+
 education:
+    - degree: PhD in Computer Science
+      university: University of Campinas
+      time: 2015 - 2020
+      details: |
+        During the PhD I have been working with computational intelligence
+        applied for many areas. My thesis was an application of AutoEncoders
+        for Collaborative Filtering.
+
+          - Artificial Neural Networks
+          - Deep Auto Encoders
+
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+      university: University of Londrina
       time: 2012 - 2014
-      company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        During the MSc I have been working with computational intelligence applied
+        for many areas. My thesis was an application of Genetic Algorithm for Portfolio Selection.
+
+          - Genetic Algorithm
+          - Nondominated Sorting Genetic Algorithm (NSGA II)
+
+    - degree: MBA in Project Management
+      university: FGV Foundation
+      time: 2010 - 2012
+      details: |
+        During the MBA I have been working with portfolio managment.
+        My thesis was an application project managment concepts to improve the quality of selected projetcs.
+
+          - Gaze Plot Study
+          - Eye Tracking Study
+
+    - degree: MBA in Neuro Science
+      university: FGV Foundation
+      time: 2008 - 2009
+      details: |
+        During the MBA I have been working with eye tracking and gaze plots.
+        My thesis was an application of eye tracking to improve de UX.
+
+          - Gaze Plot Study
+          - Eye Tracking Study
+
+
+    - degree: MBA in Software Engineering
+      university: University of Londrina
+      time: 2006 - 2007
+      details: |
+        During the MBA I have been working with requirements enginering.
+        My thesis was requirements enginering to improve the software quality.
+
+          - Requirements Engineering
+          - Software Engineering
+
+    - degree: BSc in Computer Science
+      university: University of Maringá
+      time: 2000 - 2005
+      details: |
+        During the BSc I have been working with computational intelligence applied for credit score.
+        My thesis was an application of Rule-Based Algorithm for Credit Score.
+
+          - Rule-Based Algorithm
+          - Credit Score
+
+experiences:
+    - role: Researcher
+      time: 2020 - Present
+      company: FEEC/Unicamp
+      details: |
+        I have working with a lot of computational intelligence
+        techniques applied for many areas of neurocomputing aimed at winning further 
+        understanding of neural networks and learning systems, including, but not restricted to, 
+        architectures, learning methods, analysis of network dynamics, 
+        theories of learning, self-organization, biological neural network modelling, 
+        sensorimotor transformations and interdisciplinary topics with artificial intelligence, 
+        artificial life, cognitive science, computational learning theory, 
+        fuzzy logic, genetic algorithms, information theory, machine learning, neurobiology and pattern recognition.
+
+          - Neuro Science
+          - Computer Science
+
+    - role: Computer Scientist
+      time: 2015 - Present
+      company: Sicoob, Solaris, Produtec and Senai HUB, Brazil
+      details: |
+        I have working with a lot of computational intelligence
+        techniques applied for many areas of financial and software industries such as fraud detection,
+        money laundering, patter recognition, sentimental analysis,
+        recommender systems, etc.
+
+          - Computational Intelligence
+          - Financial and Software Industries
+
+    - role: Senior Software Engineer
+      time: 2005 - 2015
+      company: Sicoob and Sancor, Brazil and Argentina
+      details: |
+        I have working with Java technology (and derivatives) to architect,
+        build, deploy and maintain the operations of many kinds of critical solutions.
+
+          - Java
+          - Software Engineering
+
+    - role: Junior Software Engineer
+      time: 2001 - 2005
+      company: Coopercard, Brazil
+      details: |
+        I have working with Java technology (and derivatives) to build,
+        eploy and maintain the operations of many kinds of critical solutions..
+
+          - Java
+          - Software Engineering
+
 projects:
-    title: Projects
+    title: Open Source Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some selected open source projects.
+
     assignments:
-      - title: Velocity
+      - title: Simple Porfolio
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: A software for portfolio optimization based on genetic algorithm and Java.
 
-      - title: DevStudio
+      - title: Simple AHP
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: A software for collaborative AHP based on rule-based and Java.
 
-      - title: Tempo
+      - title: Commons Lib
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: A commons softwares libs to help Java developers build a lot of Java applications.
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Below, some selected papers published in conferences and journals related to computer science and neuro science.
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Deep Auto Encoders to Adaptive E-learning Recommender System
+        authors: Everton Gomede, et al.
+        conference: Computers & Education; Artificial Intelligence, 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Use of Deep Multi-Target Prediction to Identify Learning Styles
+        authors: Everton Gomede, et al.
+        conference: Applied Sciences, 2020
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Application of Computational Intelligence to Improve Education in Smart Cities
+        authors: Everton Gomede, et al.
+        conference: Sensors, 2018
+
+      - title: Edukas Environment Towards an Integrated Dashboard for Education Management in Smart Cities
+        authors: Everton Gomede, et al.
+        conference: IEEE SmartWorld, 2017
+
+      - title: Strategies for Zero-Downtime Releases A Comparative Study
+        authors: Everton Gomede, et al.
+        conference: 15th INTERNATIONAL CONFERENCE WWW/INTERNET 2016
+
+      - title: A Practical Approach to Software Continuous Delivery Focused on Application Lifecycle Management
+        authors: Everton Gomede, et al.
+        conference: The 27th International Conference on Software Engineering and Knowledge Engineering, 2015
+
+      - title: Strategies for Zero-Downtime Releases A Comparative Study
+        authors: Everton Gomede, et al.
+        conference: 15th International Conference www/Internet, 2016
+
+      - title: Using multiobjective optimization and Analytic Hierarchy Process
+        authors: Everton Gomede, et al.
+        conference: 9th Iberian Conference on Information Systems and Technologies (CISTI), 2014
+
+      - title: Theory of Constraints Applied to Balancing of the Portfolio of Projects A Case Study
+        authors: Everton Gomede, et al.
+        conference: 10th CONTECSI International Conference on Information Systems and Technology Management, 2013
+
+      - title: A Non Intrusive Process to Software Engineering Decision Support focused on increasing the Quality of Software Development
+        authors: Everton Gomede, et al.
+        conference: The 25th International Conference on Software Engineering and Knowledge Engineering, 2013
+
+      - title: Networks Baselines and Analytic Hierarchy Process An Approach to Strategic Decisions
+        authors: Everton Gomede, et al.
+        conference: IADIS Applied Computing, 2012
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Computer Science
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Network
+        level: 80%
+
+      - name: Statistics
         level: 98%
 
-      - name: Angular
+      - name: Math
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Machine Learning
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Deep Learning
+        level: 95%
+
+      - name: Communication
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Data Science
+        level: 90%
+
+      - name: Neuro Science
         level: 60%
 
+      - name: Pattern Recognition
+        level: 60%
+
+      - name: Software Engineering
+        level: 90%
+
+      - name: Software Architecture
+        level: 90%
+
+      - name: Database Systems
+        level: 90%
+
+      - name: Java DevOps
+        level: 100%
+
+      - name: Project Management
+        level: 100%
+        
+      - name: Python
+        level: 90%
+       
+      - name: Data Analytics
+        level: 90%
+       
+      - name: Statistics Analysis
+        level: 90%
+       
+      - name: Statistical Modeling
+        level: 90%
+       
+      - name: Data Mining
+        level: 90%
+       
+      - name: Predictive Modelling
+        level: 90%
+       
+      - name: Spark
+        level: 80%
+       
+      - name: SQL
+        level: 100%
+       
+      - name: Hadoop
+        level: 80%
+       
+      - name: Big Data
+        level: 70%
+       
+      - name: Soft Skills
+        level: 90%
+       
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    My ORCID <a href="orcid.org/0000-0003-4839-9017" target="_blank" rel="nofollow">orcid.org/0000-0003-4839-9017</a>
