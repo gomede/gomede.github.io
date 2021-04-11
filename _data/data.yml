@@ -238,7 +238,7 @@ projects:
         tagline: A software for collaborative AHP based on rule-based and Java.
 
       - title: Commons Lib
-        link: <a href="https://github.com/gomede/phoenix" target="_blank" rel="nofollow">
+        link: "https://github.com/gomede/phoenix"
         tagline: A commons softwares libs to help Java developers build a lot of Java applications.
 
 publications:
