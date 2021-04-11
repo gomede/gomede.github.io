@@ -229,13 +229,21 @@ projects:
       Some selected open source projects.
 
     assignments:
-      - title: Simple Porfolio
+      - title: Smart Porfolio
         link: "#"
         tagline: A software for portfolio optimization based on genetic algorithm and Java.
 
-      - title: Simple AHP
+      - title: Smart AHP
         link: "#"
         tagline: A software for collaborative AHP based on rule-based and Java.
+
+      - title: Smart Education
+        link: "https://www.sciencedirect.com/science/article/pii/S2666920X21000035?via%3Dihub"
+        tagline: A model may be used in e-learning systems to provide adaptability and help to improve the outcomes of students.
+
+      - title: Smart ICU – Intensive Care Unit
+        link: "https://www.kunumi.com/"
+        tagline: Use of machine learning to identify the risk of someone will died according to its features and the features from ICU - Intensive Care Unit.
 
       - title: Commons Lib
         link: "https://github.com/gomede/phoenix"
