@@ -46,6 +46,15 @@ sidebar:
       - item: Books
         link:
 
+      - item: Physics
+        link:
+
+      - item: History
+        link:
+
+      - item: Politics
+        link:
+
       - item: Sociology
         link:
 
@@ -221,7 +230,7 @@ projects:
 
     assignments:
       - title: Simple Porfolio
-        link: "#hook"
+        link: "#"
         tagline: A software for portfolio optimization based on genetic algorithm and Java.
 
       - title: Simple AHP
