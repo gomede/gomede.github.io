@@ -381,6 +381,10 @@ skills:
       - name: Soft Skills
         level: 90%
        
+scripts:
+    title: Open Source Scripts
+
+
 
 footer: >
     My ORCID <a href="orcid.org/0000-0003-4839-9017" target="_blank" rel="nofollow">orcid.org/0000-0003-4839-9017</a>
