@@ -393,7 +393,7 @@ codes:
 
     assignments:
       - title: Particle Swarm Optimization (PSO)
-        link: "https://htmlpreview.github.io/?https://github.com/gomede/machine.learning/blob/main/Particle_Swarm_Optimization_(PSO).html"
+        link: "https://htmlpreview.github.io/?https://github.com/gomede/machine.learning/blob/main/Particle_Swarm_Optimization.html"
         tagline: Swarm intelligence is a branch of artificial intelligence that studies the collective behavior and emergent properties of complex, self-organized, decentralized systems with social structure. Such systems consist of simple interacting agents organized in small societies (swarms).
 
 footer: >
