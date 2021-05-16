@@ -392,7 +392,7 @@ codes:
         tagline: Stock market trading is an application domain with a large potential for data mining. In effect, the existence of an enormous amount of historical data suggests that data mining can provide a competitive advantage over human inspection of these data.
 
     assignments:
-      - title: Particle Swarm Optimization (PSO)
+      - title: Particle Swarm Optimization
         link: "https://htmlpreview.github.io/?https://github.com/gomede/machine.learning/blob/main/Particle_Swarm_Optimization.html"
         tagline: Swarm intelligence is a branch of artificial intelligence that studies the collective behavior and emergent properties of complex, self-organized, decentralized systems with social structure. Such systems consist of simple interacting agents organized in small societies (swarms).
 
