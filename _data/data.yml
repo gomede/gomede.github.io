@@ -391,5 +391,10 @@ codes:
         link: "https://htmlpreview.github.io/?https://github.com/gomede/machine.learning/blob/main/Predicting_Stock_Market_Returns.html"
         tagline: Stock market trading is an application domain with a large potential for data mining. In effect, the existence of an enormous amount of historical data suggests that data mining can provide a competitive advantage over human inspection of these data.
 
+    assignments:
+      - title: Particle Swarm Optimization (PSO)
+        link: "https://htmlpreview.github.io/?https://github.com/gomede/machine.learning/blob/main/Particle_Swarm_Optimization_(PSO).html"
+        tagline: Swarm intelligence is a branch of artificial intelligence that studies the collective behavior and emergent properties of complex, self-organized, decentralized systems with social structure. Such systems consist of simple interacting agents organized in small societies (swarms).
+
 footer: >
     My ORCID <a href="orcid.org/0000-0003-4839-9017" target="_blank" rel="nofollow">orcid.org/0000-0003-4839-9017</a>
