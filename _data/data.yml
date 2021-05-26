@@ -397,7 +397,7 @@ codes:
 
       - title: Hypothesis Testing
         link: "https://htmlpreview.github.io/?https://github.com/gomede/machine.learning/blob/main/Hypothesis_Testing.html"
-        tagline: Point estimates and confidence intervals are basic inference tools that act as the foundation for another inference technique: statistical hypothesis testing. Statistical hypothesis testing is a framework for determining whether observed data deviates from what is expected.
+        tagline: Point estimates and confidence intervals are basic inference tools that act as the foundation for another inference technique statistical hypothesis testing. Statistical hypothesis testing is a framework for determining whether observed data deviates from what is expected.
 
 footer:
     My ORCID <a href="orcid.org/0000-0003-4839-9017" target="_blank" rel="nofollow">orcid.org/0000-0003-4839-9017</a>
