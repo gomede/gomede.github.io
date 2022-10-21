@@ -467,7 +467,7 @@ codes:
         link: "https://htmlpreview.github.io/?https://github.com/gomede/machine.learning/blob/main/Simple_Linear_Model.html"
         tagline: Linear regression models are a key part of the family of supervised learning models. In particular, linear regression models are a useful tool for predicting a quantitative response. For more details, check an article I’ve written on Simple Linear Regression - An example using R. In general, statistical softwares have different ways to show a model output.
 
-      - title: Principal Component Methods in R: Practical Guide
+      - title: Principal Component Methods in R Practical Guide
         link: "https://htmlpreview.github.io/?https://github.com/gomede/machine.learning/blob/main/Principal_Component_Methods_in_R_Practical_Guide.html"
         tagline: Large datasets are increasingly common and are often difficult to interpret. Principal component analysis (PCA) is a technique for reducing the dimensionality of such datasets, increasing interpretability but at the same time minimizing information loss.
 
