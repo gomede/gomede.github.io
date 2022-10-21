@@ -1,0 +1,38 @@
+{% assign codes = site.data.data.codes %}
+{% if codes %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ codes.title }}
+  </h2>
+
+  {% if codes.intro %}
+  <div class="intro">
+      <p>{{ codes.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for codes in codes.assignments %}
+    <div class="item">
+
+      <span class="project-title">
+        {% if codes.link %}
+        <a href="{{ codes.link }}" target="_blank">{{ codes.title }}</a>
+        {% else %}
+        {{ codes.title }}
+        {% endif %}
+      </span>
+
+      {% if codes.tagline %}
+      - <span class="project-tagline">{{ codes.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
