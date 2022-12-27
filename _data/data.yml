@@ -115,12 +115,12 @@ career-profile:
       All opinions and views are my own and do not represent my employer(s).
 
 education:
-    - degree: PostDoc in Computer Science
+    - degree: Postdoc in Computer Science
       university: Federal University of Technology
       time: 2021 - 2022
       details: |
-        During the PostDoc I have been working with Hyperparameter 
-        Optimization in Machine Learning.Grid Search, Bayesian Optimization, 
+        During the Postdoc I have been working with Hyperparameter 
+        Optimization in Machine Learning, Grid Search, Bayesian Optimization, 
         Simulated Annealing, Genetic Algorithms and Random Search.
 
           - Parameters
@@ -151,8 +151,8 @@ education:
       university: FGV Foundation
       time: 2010 - 2012
       details: |
-        During the MBA I have been working with portfolio managment.
-        My thesis was an application project managment concepts to improve the quality of selected projetcs.
+        During the MBA I have been working with portfolio management.
+        My thesis was an application project management concepts to improve the quality of selected projetcs.
 
           - Gaze Plot Study
           - Eye Tracking Study
@@ -162,7 +162,7 @@ education:
       time: 2008 - 2009
       details: |
         During the MBA I have been working with eye tracking and gaze plots.
-        My thesis was an application of eye tracking to improve de UX.
+        My thesis was an application of eye tracking to improve UX.
 
           - Gaze Plot Study
           - Eye Tracking Study
@@ -171,8 +171,8 @@ education:
       university: University of Londrina
       time: 2006 - 2007
       details: |
-        During the MBA I have been working with requirements enginering.
-        My thesis was requirements enginering to improve the software quality.
+        During the MBA I have been working with requirements engineering.
+        My thesis was requirements engineering to improve the software quality.
 
           - Requirements Engineering
           - Software Engineering
@@ -212,7 +212,7 @@ experiences:
         for many areas of online social networks which have revolutionized the way 
         we interact and share information over the Internet; social networking 
         applications have millions of active users. Multiple terabytes of 
-        information are generated daily because of user interactions in such networks. 
+        information is generated daily because of user interactions in such networks. 
         The ability to collect and analyze such data provides unique opportunities 
         to understand the underlying principles of social networks, their formation, 
         evolution, and characteristics.
@@ -249,7 +249,7 @@ experiences:
       company: Coopercard, Brazil
       details: |
         I have working with Java technology (and derivatives) to build,
-        eploy and maintain the operations of many kinds of critical solutions..
+        deploy and maintain the operations of many kinds of critical solutions.
 
           - Java
           - Software Engineering
@@ -257,10 +257,10 @@ experiences:
 projects:
     title: Side Projects
     intro: >
-      Some selected side open source projects.
+      Some selected side open-source projects.
 
     assignments:
-      - title: Smart Porfolio
+      - title: Smart Portfolio
         link: "#"
         tagline: A software for portfolio optimization based on genetic algorithm and Java.
 
@@ -283,7 +283,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      Below, some selected papers published in conferences and journals related to computer science, software enginering, and neuro science.
+      Below, some selected papers published in conferences and journals related to computer science, software engineering, and neuro science.
 
     papers:
 
@@ -436,7 +436,7 @@ skills:
 codes:
     title: Open Source Codes
     intro: >
-      Some selected open source codes.
+      Some selected open-source code.
 
     assignments:
       - title: Predicting Stock Market Returns
