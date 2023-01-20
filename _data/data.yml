@@ -192,14 +192,14 @@ experiences:
       time: 2021 - Present
       company: FEEC/Unicamp, Campinas, Brazil
       details: |
-        I have working with a lot of computational intelligence
-        techniques applied for many areas of neurocomputing aimed at winning further 
-        understanding of neural networks and learning systems, including, but not restricted to, 
-        architectures, learning methods, analysis of network dynamics, 
-        theories of learning, self-organization, biological neural network modelling, 
-        sensorimotor transformations and interdisciplinary topics with artificial intelligence, 
-        artificial life, cognitive science, computational learning theory, 
-        fuzzy logic, genetic algorithms, information theory, machine learning, neurobiology and pattern recognition.
+        I have working with a lot of computational intelligence techniques applied 
+        for many areas of neurocomputing aimed at winning further understanding of 
+        neural networks and learning systems, including, but not restricted to, 
+        architectures, learning methods, analysis of network dynamics, theories of learning, 
+        self-organization, biological neural network modeling, sensorimotor transformations and 
+        interdisciplinary topics with artificial intelligence, artificial life, cognitive science, 
+        computational learning theory, fuzzy logic, genetic algorithms, information theory, 
+        machine learning, neurobiology and pattern recognition.
 
           - Neuro Science
           - Computer Science
@@ -226,10 +226,9 @@ experiences:
       time: 2015 - 2021
       company: Sicoob, Solaris, Produtec and Senai HUB, Brazil
       details: |
-        I have working with a lot of computational intelligence
-        techniques applied for many areas of financial and software industries such as fraud detection,
-        money laundering, patter recognition, sentimental analysis,
-        recommender systems, etc.
+        I have worked with a lot of computational intelligence techniques applied 
+        for many areas of financial and software industries such as fraud detection, 
+        money laundering, pattern recognition, sentimental analysis, recommender systems, etc.
 
           - Computational Intelligence
           - Financial and Software Industries
@@ -238,7 +237,7 @@ experiences:
       time: 2005 - 2015
       company: Sicoob and Sancor, Brazil and Argentina
       details: |
-        I have working with Java technology (and derivatives) to architect,
+        I have worked with Java technology (and derivatives) to architect,
         build, deploy and maintain the operations of many kinds of critical solutions.
 
           - Java
@@ -248,7 +247,7 @@ experiences:
       time: 2001 - 2005
       company: Coopercard, Brazil
       details: |
-        I have working with Java technology (and derivatives) to build,
+        I have worked with Java technology (and derivatives) to build,
         deploy and maintain the operations of many kinds of critical solutions.
 
           - Java
