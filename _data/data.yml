@@ -437,7 +437,13 @@ skills:
        
       - name: Data Science on Azure
         level: 60%
+
+      - name: ETL/ELT
+        level: 100%
        
+      - name: Data Pipeline
+        level: 100%
+
 codes:
     title: Open Source Codes
     intro: >
