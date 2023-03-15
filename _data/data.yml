@@ -191,6 +191,19 @@ education:
 
 experiences:
     - role: Researcher
+      time: 2023 - Present
+      company: PPGI/UTFPR, Paraná, Brazil
+      details: |
+        I have working with a lot Computational Intelligence (CI) is a field of research that combines 
+        several branches of computer science and artificial intelligence to create intelligent systems 
+        that can learn, adapt, and solve complex problems. CI draws inspiration from biological systems, 
+        such as the human brain, to develop algorithms that can handle tasks that are difficult 
+        for traditional rule-based programming.
+
+          - Speech recognition and natural language processing
+          - Recommendation systems for e-commerce and content platforms
+
+    - role: Researcher
       time: 2021 - Present
       company: FEEC/Unicamp, Campinas, Brazil
       details: |
