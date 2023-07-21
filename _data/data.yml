@@ -100,16 +100,15 @@ career-profile:
       
       Previously, I was a Senior Operations Research Analyst at the <a href="https://www.sicoob.com.br/" target="_blank" rel="nofollow">Sicoob</a>, <a href="https://www.sancorseguros.com.br/" target="_blank" rel="nofollow">Sancor</a>, <a href="https://www.solaris.net.br/" target="_blank" rel="nofollow">Solaris</a>, <a href="https://www.produtec.com.br/" target="_blank" rel="nofollow">Produtec</a> and <a href="https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/" target="_blank" rel="nofollow">Senai HUB</a> and spent many years developing life cycle forecasting, risk, and decision analysis models. 
 
-      I work on applied analytic research, develop data analysis software, create data science educational content, write books, and provide analytic consulting services.
+      I have been working on applied analytic research, developing data analysis software, creating data science educational content, writing books, and providing analytic consulting services.
 
-      Besides, I have been working as a Visiting Professor at the University of São Paulo, University of Maringá, Pontificia Universidad Catolica, FCV, and University of Londrina where I have taught business analytics and R and Python programming courses. My teaching style is building knowledge from general to specific, simple to complex and example-based methods before mathematical formalization. 
+      Besides, I have been working as a Visiting Professor at the University of São Paulo, University of Maringá, Pontifical Catholic University, FCV, and University of Londrina, where I have taught business analytics and courses in R and Python programming. My teaching style is to build knowledge from general to specific, from simple to complex, and to use example-based methods before mathematical formalization.
       
       I am also reviewer of journals <a href="https://www.sciencedirect.com/journal/computer-networks" target="_blank" rel="nofollow">Computer and Telecommunications Networking</a>, <a href="http://www.annexpublishers.com/journals/journal-of-waste-resources-and-recycling/jhome.php" target="_blank" rel="nofollow">Journal of Waste Resources and Recycling (JWRR)</a>, <a href="https://www.peertechzpublications.com/journals/trends-in-computer-science-and-information-technology" target="_blank" rel="nofollow">Trends in Computer Science and Information Technology</a>, <a href="https://globalpresshub.com/index.php/AJSR" target="_blank" rel="nofollow">Asian Journal of Sociological Research</a>, <a href="https://www.journalajess.com/index.php/AJESS" target="_blank" rel="nofollow">Asian Journal of Education and Social Studies</a>, <a href="https://journals.indexcopernicus.com/search/details?id=51900" target="_blank" rel="nofollow">Trends in Computer Science and Information Technology</a>, <a href="https://www.journalsajsse.com/index.php/SAJSSE" target="_blank" rel="nofollow">South Asian Journal of Social Studies and Economics</a>, <a href="https://www.editorialmanager.com/aire/mainpage.html" target="_blank" rel="nofollow">Artificial Intelligence Review</a>, <a href="http://www.mlrjournal.org/" target="_blank" rel="nofollow">Machine Learning Research</a>, ISPRS International Journal of Trends in Computer Science and Information Technology, Geo-Information, Smart Cities, Sensors, International Journal of Environmental Research and Public Health, Applied Sciences, Big Data and Cognitive Computing, and Future Internet.
 
       Moreover, I have written many technical <a href="https://servicos.cbl.org.br/isbn/pesquisa/?page=1&q=gomede&filtrar_por%5B0%5D=autor&ord%5B0%5D=relevancia&dir%5B0%5D=asc" target="_blank" rel="nofollow">books</a> 
       and scientific papers related to computer science and I have been working as a researcher at <a href="https://www.fee.unicamp.br/" target="_blank" rel="nofollow">FEEC/Unicamp</a>. Also, I have a project approved by the <a href="https://nrc.canada.ca/en/support-technology-innovation" target="_blank" rel="nofollow">IRAP</a> and I am working with <a href="https://www.harvard.edu/" target="_blank" rel="nofollow">Harvard University</a> researching stable match problems. 
       Recently, I have started to work at <a href="https://www.ubc.ca/" target="_blank" rel="nofollow">University of British Columbia</a> and <a href="https://www.uoguelph.ca/" target="_blank" rel="nofollow">The University of Guelph</a> as a researcher dealing with a lot of farms animal's datasets.
-      
 
       All opinions and views are my own and do not represent my employer(s).
 
@@ -191,27 +190,34 @@ experiences:
       time: 2023 - Present
       company: PPGI/UTFPR, Paraná, Brazil
       details: |
-        I have working with a lot Computational Intelligence (CI) is a field of research that combines 
-        several branches of computer science and artificial intelligence to create intelligent systems 
-        that can learn, adapt, and solve complex problems. CI draws inspiration from biological systems, 
-        such as the human brain, to develop algorithms that can handle tasks that are difficult 
-        for traditional rule-based programming.
+        I have been working with a lot Computational Intelligence (CI), a field of research that 
+        combines several branches of computer science and artificial intelligence to create intelligent 
+        systems that can learn, adapt, and solve complex problems. CI draws inspiration from biological systems, 
+        such as the human brain, to develop algorithms that can handle tasks that are difficult for traditional rule-based programming.
 
           - Speech recognition and natural language processing
           - Recommendation systems for e-commerce and content platforms
+
+    - role: Professor
+      time: 2021 - Present
+      company: USP/Esalq, São Paulo, Brazil
+      details: |
+        I have been supervising graduate students and young researchers, guiding them in their academic and research endeavors, 
+        providing support, advice, and valuable insights to help their mentees succeed in their academic careers.
+
+          - Machine Learning
+          - Data Science
+
 
     - role: Researcher
       time: 2021 - Present
       company: FEEC/Unicamp, Campinas, Brazil
       details: |
-        I have working with a lot of computational intelligence techniques applied 
-        for many areas of neurocomputing aimed at winning further understanding of 
-        neural networks and learning systems, including, but not restricted to, 
-        architectures, learning methods, analysis of network dynamics, theories of learning, 
-        self-organization, biological neural network modeling, sensorimotor transformations and 
-        interdisciplinary topics with artificial intelligence, artificial life, cognitive science, 
-        computational learning theory, fuzzy logic, genetic algorithms, information theory, 
-        machine learning, neurobiology and pattern recognition.
+        I have been working with a computational intelligence techniques applied to various many areas neurocomputing, 
+        with the aim of gaining of better understanding of neural networks and learning systems. 
+        This includes, but is not limited to, architectures, learning methods, analysis of network dynamics, theories of learning, self-organization, 
+        biological neural network modeling, sensorimotor transformations, and interdisciplinary topics with artificial intelligence, artificial life, 
+        cognitive science, computational learning theory, fuzzy logic, genetic algorithms, information theory, machine learning, neurobiology, and pattern recognition.
 
           - Neuro Science
           - Computer Science
@@ -220,14 +226,10 @@ experiences:
       time: 2021 - Present
       company: VanHack, Vancouver, Canada
       details: |
-        I have working with a lot of computational intelligence techniques applied 
-        for many areas of online social networks which have revolutionized the way 
-        we interact and share information over the Internet; social networking 
-        applications have millions of active users. Multiple terabytes of 
-        information is generated daily because of user interactions in such networks. 
-        The ability to collect and analyze such data provides unique opportunities 
-        to understand the underlying principles of social networks, their formation, 
-        evolution, and characteristics.
+        I have been working with a lot of computational intelligence techniques applied to many areas of online social networks, 
+        which have revolutionized the way we interact and share information over the Internet. 
+        Social networking applications have millions of active users, generating multiple terabytes of information daily due to user interactions in such networks. 
+        The ability to collect and analyze this data provides unique opportunities to understand the underlying principles of social networks, their formation, evolution, and characteristics.
             
           - Algorithms
           - Systems
@@ -238,9 +240,8 @@ experiences:
       time: 2015 - 2021
       company: Sicoob, Solaris, Produtec and Senai HUB, Brazil
       details: |
-        I have worked with a lot of computational intelligence techniques applied 
-        for many areas of financial and software industries such as fraud detection, 
-        money laundering, pattern recognition, sentimental analysis, recommender systems, etc.
+        I have worked with computational intelligence techniques applied many to various areas of the financial and software industries, 
+        such as fraud detection, money laundering, pattern recognition, sentiment analysis, and recommender systems.
 
           - Computational Intelligence
           - Financial and Software Industries
@@ -249,8 +250,7 @@ experiences:
       time: 2005 - 2015
       company: Sicoob and Sancor, Brazil and Argentina
       details: |
-        I have worked with Java technology (and derivatives) to architect,
-        build, deploy and maintain the operations of many kinds of critical solutions.
+        I have worked with Java technology and its derivatives to architect, build, deploy, and maintain operations for many critical solutions.
 
           - Java
           - Software Engineering
@@ -259,8 +259,7 @@ experiences:
       time: 2001 - 2005
       company: Coopercard, Brazil
       details: |
-        I have worked with Java technology (and derivatives) to build,
-        deploy and maintain the operations of many kinds of critical solutions.
+        I have worked with Java technology and its derivatives to build, deploy, and maintain operations for many types of critical solutions.
 
           - Java
           - Software Engineering
