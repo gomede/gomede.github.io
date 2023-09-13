@@ -300,55 +300,68 @@ publications:
 
       - title: Bayesian Optimization for Sampling the Hyper Parameter Space (preprint)
         authors: Everton Gomede, et al.
-        conference:  IEEE Computational Intelligence Magazine, 2022
+        conference:  IEEE Computational Intelligence Magazine, 2023
+        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4559196"
         
       - title: Comparative Study of Dimensionality Reduction Techniques (preprint)
         authors: Everton Gomede, et al.
-        conference: Intelligent Systems with Applications, 2021
+        conference: Intelligent Systems with Applications, 2022
+        link: "#"
 
       - title: Deep Auto Encoders to Adaptive E-learning Recommender System
         authors: Everton Gomede, et al.
         conference: Computers & Education - Artificial Intelligence, 2021
+        link: "https://www.sciencedirect.com/science/article/pii/S2666920X21000035"
 
       - title: Use of Deep Multi-Target Prediction to Identify Learning Styles
         authors: Everton Gomede, et al.
         conference: Applied Sciences, 2020
+        link: "https://www.mdpi.com/2076-3417/10/5/1756"
 
       - title: Application of Computational Intelligence to Improve Education in Smart Cities
         authors: Everton Gomede, et al.
         conference: Sensors, 2018
+        link: "https://www.mdpi.com/1424-8220/18/1/267"
 
       - title: Edukas Environment Towards an Integrated Dashboard for Education Management in Smart Cities
         authors: Everton Gomede, et al.
         conference: IEEE SmartWorld, 2017
+        link: "https://ieeexplore.ieee.org/document/8397535"
 
       - title: A Practical Approach to Software Continuous Delivery Focused on Application Lifecycle Management
         authors: Everton Gomede, et al.
         conference: The 27th International Conference on Software Engineering and Knowledge Engineering, 2015
+        link: "http://ksiresearch.org/seke/seke15paper/seke15paper_126.pdf"
 
       - title: Strategies for Zero-Downtime Releases A Comparative Study
         authors: Everton Gomede, et al.
         conference: 15th International Conference www/Internet, 2016
+        link: "https://www.iadisportal.org/digital-library/strategies-for-zero-downtime-releases-a-comparative-study"
 
       - title: Using multiobjective optimization and Analytic Hierarchy Process
         authors: Everton Gomede, et al.
         conference: 9th Iberian Conference on Information Systems and Technologies (CISTI), 2014
+        link: "https://ieeexplore.ieee.org/document/6876928"
 
       - title: Theory of Constraints Applied to Balancing of the Portfolio of Projects A Case Study
         authors: Everton Gomede, et al.
         conference: 10th CONTECSI International Conference on Information Systems and Technology Management, 2013
+        link: "https://www.tecsi.org/contecsi/index.php/contecsi/10contecsi/rt/metadata/3601/2123"
 
       - title: A Non Intrusive Process to Software Engineering Decision Support focused on increasing the Quality of Software Development
         authors: Everton Gomede, et al.
         conference: The 25th International Conference on Software Engineering and Knowledge Engineering, 2013
+        link: "https://www.researchgate.net/publication/288710955_A_non-intrusive_process_to_software_engineering_decision_support_focused_on_increasing_the_quality_of_software_development"
 
       - title: Networks Baselines and Analytic Hierarchy Process An Approach to Strategic Decisions
         authors: Everton Gomede, et al.
         conference: IADIS Applied Computing, 2012
+        link: "https://www.iadisportal.org/digital-library/networks-baselines-and-analytic-hierarchy-process-an-approach-to-strategic-decisions"
         
       - title: Utilizando o Método Analytic Hierarchy Process (AHP) para Priorização de Serviços de TI
         authors: Everton Gomede, et al.
         conference: Simpósio Brasileiro de Sistemas de Informação (SBSI), 2012
+        link: "https://sol.sbc.org.br/index.php/sbsi/article/view/14451"
 
       - title: Improving VanHack’s Candidates Journey With AI | English Verification
         authors: Everton Gomede, et al.
