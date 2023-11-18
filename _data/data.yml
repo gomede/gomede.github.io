@@ -117,6 +117,19 @@ career-profile:
       All opinions and views are my own and do not represent my employer(s).
 
 education:
+
+    - degree: Micro-certificate in Analytics
+      university: University of British Columbia
+      time: 2023 - 2024
+      details: |
+        During the Micro-certificate I have been working with extract, 
+        analyze and visualize data to inform research and related decisions. 
+        The use of aquatic databases is critical in driving sustainable practices 
+        and fostering equitable blue economic sectors.
+
+          - Data Science
+          - Data Engineering
+
     - degree: Postdoc in Computer Science
       university: Federal University of Technology
       time: 2021 - 2022
