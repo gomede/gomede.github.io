@@ -28,11 +28,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Portuguese
-        level: Native
-
       - idiom: English
         level: Fluent
+
+      - idiom: Portuguese
+        level: Native
 
     interests:
       - item: Music
