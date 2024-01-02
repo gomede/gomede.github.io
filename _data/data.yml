@@ -202,6 +202,17 @@ education:
 
 experiences:
     - role: Researcher
+      time: 2024 - Present
+      company: University of British Columbia, BC, Canada
+      details: |
+        I have been working leverage cutting-edge technologies in machine learning, predictive analytics, 
+        and satellite imagery analysis to enhance wildfire prediction, detection, and response strategies.
+
+          - Develop and refine AI models to predict wildfire risks and behavior
+          - Collaborate with environmental scientists to integrate ecological data into AI systems
+
+
+    - role: Researcher
       time: 2023 - Present
       company: PPGI/UTFPR, Paraná, Brazil
       details: |
