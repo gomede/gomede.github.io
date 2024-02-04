@@ -98,11 +98,11 @@ career-profile:
     title: Career Profile
     summary: |
       
-      Hello! I’m Everton, a seasoned Computer Scientist and Data Analyst with a rich background in developing algorithmic processes, solutions, and tools. At <a href="http://vanhack.com/" target="_blank" rel="nofollow">VanHack</a>, <a href="https://www.fee.unicamp.br/" target="_blank" rel="nofollow">FEEC/Unicamp</a>, and <a href="https://www.utfpr.edu.br/" target="_blank" rel="nofollow">PPGI/UTFPR</a>, I specialize in enabling efficient data-driven insights and decision-making solutions.      
+      Hello! I’m Everton, a seasoned Computer Scientist and Data Analyst with a rich background in developing algorithmic processes, solutions, and tools. At <a href="https://science.ubc.ca/" target="_blank" rel="nofollow">The Faculty of Science of University of British Columbia</a>, <a href="https://www.fee.unicamp.br/" target="_blank" rel="nofollow">FEEC/Unicamp</a>, and <a href="https://www.utfpr.edu.br/" target="_blank" rel="nofollow">PPGI/UTFPR</a>, and <a href="https://www5.usp.br/" target="_blank" rel="nofollow">USP</a>, I specialize in enabling efficient data-driven insights and decision-making solutions.      
      
       As Computer Scientist and Software Engineer with 20+ years of experience in leveraging expertise in Machine Learning, Data Analysis, and Software Development. Proven track record in translating complex data into actionable insights, leading to significant improvements in business strategies and operational efficiency. I am passionate about developing innovative solutions to challenging problems.
 
-      In previous roles, including as a Senior Operations Research Analyst at <a href="https://www.sicoob.com.br/" target="_blank" rel="nofollow">Sicoob</a>, <a href="https://www.sancorseguros.com.br/" target="_blank" rel="nofollow">Sancor</a>, <a href="https://www.solaris.net.br/" target="_blank" rel="nofollow">Solaris</a>, <a href="https://www.produtec.com.br/" target="_blank" rel="nofollow">Produtec</a> and <a href="https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/" target="_blank" rel="nofollow">Senai HUB</a>, I honed my skills in life cycle forecasting, risk, and decision analysis. My career spans applied analytic research, software development, educational content creation, and consulting. I have been working on applied analytic research, developing data analysis software, creating data science educational content, writing books, and providing analytic consulting services.
+      In previous roles, including as a Senior Operations Research Analyst at <a href="https://www.vanhack.com/" target="_blank" rel="nofollow">Vanhack</a>, <a href="https://www.sicoob.com.br/" target="_blank" rel="nofollow">Sicoob</a>, <a href="https://www.sancorseguros.com.br/" target="_blank" rel="nofollow">Sancor</a>, <a href="https://www.solaris.net.br/" target="_blank" rel="nofollow">Solaris</a>, <a href="https://www.produtec.com.br/" target="_blank" rel="nofollow">Produtec</a> and <a href="https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/" target="_blank" rel="nofollow">Senai HUB</a>, I honed my skills in life cycle forecasting, risk, and decision analysis. My career spans applied analytic research, software development, educational content creation, and consulting. I have been working on applied analytic research, developing data analysis software, creating data science educational content, writing books, and providing analytic consulting services.
 
       Besides, I have been working as a Visiting Professor at the University of São Paulo, University of Maringá, Pontifical Catholic University, FCV, and University of Londrina, where I have taught business analytics and courses in R and Python programming. My teaching style is to build knowledge from general to specific, from simple to complex, and to use example-based methods before mathematical formalization.
       
@@ -205,7 +205,7 @@ experiences:
       time: 2024 - Present
       company: Faculty of Science/University of British Columbia, BC, Canada
       details: |
-        I have been working leverage cutting-edge technologies in machine learning, predictive analytics, 
+        I have been working leverage cutting-edge technologies in machine learning, predictive analytics, IoT
         and satellite imagery analysis to enhance wildfire prediction, detection, and response strategies.
 
           - Develop and refine AI models to predict wildfire risks and behavior
