@@ -201,7 +201,7 @@ education:
           - Credit Score
 
 experiences:
-    - role: Researcher
+    - role: AI Researcher
       time: 2024 - Present
       company: Faculty of Science/University of British Columbia, BC, Canada
       details: |
@@ -212,7 +212,7 @@ experiences:
           - Collaborate with environmental scientists to integrate ecological data into AI systems
 
 
-    - role: Researcher
+    - role: AI Researcher
       time: 2023 - Present
       company: PPGI/UTFPR, Paraná, Brazil
       details: |
@@ -224,7 +224,7 @@ experiences:
           - Speech recognition and natural language processing
           - Recommendation systems for e-commerce and content platforms
 
-    - role: Professor
+    - role: AI Professor
       time: 2021 - Present
       company: USP/Esalq, São Paulo, Brazil
       details: |
@@ -235,7 +235,7 @@ experiences:
           - Data Science
 
 
-    - role: Researcher
+    - role: AI Researcher
       time: 2021 - Present
       company: FEEC/Unicamp, Campinas, Brazil
       details: |
