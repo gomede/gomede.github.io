@@ -334,6 +334,11 @@ publications:
         conference: Open Journal of Internet of Things, 2024
         link: "www.ronpub.com/ojiot"
 
+      - title: AI-Enhanced Wildfire Risk Prediction Integrating CFFDRS with Comprehensive Environmental and Geographical Data
+        authors: Everton Gomede, et al.
+        conference: Wildland Fire Canada Conference, Fredericton, New Brunswick, 2024
+        link: "https://wildlandfirecanada.com/"
+
       - title: Bayesian Optimization for Sampling the Hyper Parameter Space (preprint)
         authors: Everton Gomede, et al.
         conference: IEEE Computational Intelligence Magazine, 2023
