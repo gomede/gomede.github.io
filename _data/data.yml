@@ -324,6 +324,11 @@ publications:
 
     papers:
 
+      - title: Implementation of Stable Pairing Algorithms for Optimizing Educational Games: A Computational and Pedagogical Perspective
+        authors: Everton Gomede, et al.
+        conference: IEEE Latin America Transactions, 2024
+        link: "https://latamt.ieeer9.org/index.php/transactions"
+
       - title: Optimizing Social and Emotional Learning through Modified Gale-Shapley Algorithm for Collaborative and Competitive Education
         authors: Everton Gomede, et al.
         conference: International Journal of Information and Education Technology, 2024
