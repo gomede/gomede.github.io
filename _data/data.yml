@@ -382,15 +382,15 @@ publications:
         conference: IEEE SmartWorld, 2017
         link: "https://ieeexplore.ieee.org/document/8397535"
 
-      - title: A Practical Approach to Software Continuous Delivery Focused on Application Lifecycle Management
-        authors: Everton Gomede, et al.
-        conference: The 27th International Conference on Software Engineering and Knowledge Engineering, 2015
-        link: "http://ksiresearch.org/seke/seke15paper/seke15paper_126.pdf"
-
       - title: Strategies for Zero-Downtime Releases A Comparative Study
         authors: Everton Gomede, et al.
         conference: 15th International Conference www/Internet, 2016
         link: "https://www.iadisportal.org/digital-library/strategies-for-zero-downtime-releases-a-comparative-study"
+
+      - title: A Practical Approach to Software Continuous Delivery Focused on Application Lifecycle Management
+        authors: Everton Gomede, et al.
+        conference: The 27th International Conference on Software Engineering and Knowledge Engineering, 2015
+        link: "http://ksiresearch.org/seke/seke15paper/seke15paper_126.pdf"
 
       - title: Using multiobjective optimization and Analytic Hierarchy Process
         authors: Everton Gomede, et al.
