@@ -204,6 +204,17 @@ education:
           - Credit Score
 
 experiences:
+    - role: Machine Learning Engineer
+      time: 2025 - Present
+      company: Decision Tree technology, Delaware, USA
+      details: |
+        Created an advanced Large Language Model (LLM) solution for a fertility clinic, featuring a detailed competitive analysis of the fertility AI market. 
+        Identified gaps in conversational AI, patient journey support, and emotional intelligence, 
+        and developed a unique product strategy to meet these needs beyond standard embryo and oocyte assessment.
+
+          - Enhance Multilingual Support - Expand LLM capabilities to serve patients in multiple languages, improving accessibility and inclusivity.
+          - Facilitate Emotional Wellbeing Resources - Offer empathetic, AI-driven support and connect patients to mental health or counseling resources as needed.
+
     - role: AI Researcher - Postdoctoral Fellow
       time: 2024 - Present
       company: Faculty of Science/University of British Columbia, BC, Canada
@@ -213,7 +224,6 @@ experiences:
 
           - Develop and refine AI models to predict wildfire risks and behavior
           - Collaborate with environmental scientists to integrate ecological data into AI systems
-
 
     - role: AI Researcher
       time: 2023 - Present
