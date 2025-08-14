@@ -337,6 +337,11 @@ publications:
 
     papers:
 
+      - title: Scalable Coffee Crop Classification Using NDVI Time Series from SATVeg and Machine Learning Models
+        authors: Everton Gomede, et al.
+        conference: Smart Agricultural Technology, 2025
+        link: "https://www.sciencedirect.com/journal/smart-agricultural-technology"
+
       - title: Points of Interest Recommendation System in Recife with Content-Based Filtering and Pernambuco Passport
         authors: Everton Gomede, et al.
         conference: VII MSSiS, 2025
