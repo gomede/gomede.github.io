@@ -446,6 +446,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Large Language Models
+        level: 85%
+
       - name: Computer Science
         level: 98%
 
