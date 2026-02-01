@@ -204,6 +204,22 @@ education:
           - Credit Score
 
 experiences:
+    - role: Associate Researcher – Artificial Intelligence
+      time: 2026 – Present
+      company: Faculty of Science / University of British Columbia, BC, Canada
+      details: |
+        I lead and conduct foundational and applied AI research focused on decision-making under uncertainty,
+        developing core AI methods and validating them across real-world, high-impact domains.
+
+          - Design and advance foundational AI methods for spatio-temporal modeling, multimodal learning,
+            and uncertainty-aware decision systems
+          - Lead applied AI research programs in wildfire risk prediction, environmental monitoring,
+            and biological systems using IoT and satellite data
+          - Translate base AI research into deployable decision-support systems in collaboration
+            with academic and industry partners
+          - Supervise and mentor graduate students and research assistants across multiple projects
+          - Contribute to grant writing, project leadership, and cross-disciplinary research initiatives
+
     - role: Machine Learning Engineer
       time: 2025 - Present
       company: Decision Tree technology, Delaware, USA
@@ -216,7 +232,7 @@ experiences:
           - Facilitate Emotional Wellbeing Resources - Offer empathetic, AI-driven support and connect patients to mental health or counseling resources as needed.
 
     - role: AI Researcher - Postdoctoral Fellow
-      time: 2024 - Present
+      time: 2024 - 2026
       company: Faculty of Science/University of British Columbia, BC, Canada
       details: |
         I have been leveraging cutting-edge technologies in machine learning, predictive analytics, IoT, 
