@@ -222,6 +222,19 @@ experiences:
 
     - role: Machine Learning Engineer
       time: 2025 - Present
+      company: Cisco Systems, USA
+      details: |
+        Working on the design, development, and deployment of machine learning solutions for large-scale, production environments. 
+        Focused on transforming complex operational data into actionable insights, supporting reliability, security, and system performance.
+
+          - Designing and training machine learning models for real-world, high-impact use cases
+          - Building scalable, production-ready ML pipelines and services
+          - Collaborating with cross-functional engineering and domain teams
+          - Applying AI techniques to troubleshooting, observability, and decision support systems
+          - Emphasizing robustness, evaluation, and responsible deployment of models
+
+    - role: Machine Learning Engineer
+      time: 2025 - Present
       company: Decision Tree technology, Delaware, USA
       details: |
         Created an advanced Large Language Model (LLM) solution for a fertility clinic, featuring a detailed competitive analysis of the fertility AI market. 
