@@ -233,6 +233,24 @@ experiences:
           - Applying AI techniques to troubleshooting, observability, and decision support systems
           - Emphasizing robustness, evaluation, and responsible deployment of models
 
+    - role: Associate Researcher – Radar Imaging & Applied AI
+      time: 2025 – Present
+      company: Radaz, Brazil
+      details: |
+        I lead and conduct applied research on radar-based sensing and 3D imaging systems
+        for subsurface infrastructure inspection, focusing on buried pipes and utilities.
+
+          - Design and develop 3D radar imaging pipelines for detection, localization,
+            and characterization of buried pipes and subsurface structures
+          - Research and apply signal processing, inverse methods, and AI techniques
+            for radar data interpretation and noise-robust reconstruction
+          - Integrate ground-based and mobile radar systems with positioning (GNSS/IMU)
+            for accurate spatial mapping and georeferenced outputs
+          - Translate radar research into deployable inspection and decision-support
+            solutions for infrastructure monitoring and certification workflows
+          - Collaborate with engineers, researchers, and regulatory bodies on
+            technology validation, field testing, and compliance (FCC / ISED)
+       
     - role: Machine Learning Engineer
       time: 2025 - Present
       company: Decision Tree technology, Delaware, USA
