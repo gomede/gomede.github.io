@@ -384,6 +384,11 @@ publications:
 
     papers:
 
+      - title: Enhanced Event Detection in Distributed Acoustic Sensing Systems via Deep Feature Extraction Using DenseNet-201 and Pattern Recognition Neural Network
+        authors: Everton Gomede, et al.
+        conference: Intelligent Automation and Soft Computing (IASC), 2026
+        link: "https://www.techscience.com/journal/iasc"
+
       - title: Resource-Aware Citrus CropMapping from Sentinel-2 Time Series Using a Pixel-Set Encoder Convolutional Neural Network for Sustainable Agricultural Monitoring
         authors: Everton Gomede, et al.
         conference: Green (MDPI), 2026
